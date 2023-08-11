@@ -1,0 +1,12 @@
+F:\EvaluationTask\PracticalTask.Models\bin\Debug\net6.0\PracticalTask.Models.deps.json
+F:\EvaluationTask\PracticalTask.Models\bin\Debug\net6.0\PracticalTask.Models.dll
+F:\EvaluationTask\PracticalTask.Models\bin\Debug\net6.0\PracticalTask.Models.pdb
+F:\EvaluationTask\PracticalTask.Models\obj\Debug\net6.0\PracticalTask.Models.csproj.AssemblyReference.cache
+F:\EvaluationTask\PracticalTask.Models\obj\Debug\net6.0\PracticalTask.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\EvaluationTask\PracticalTask.Models\obj\Debug\net6.0\PracticalTask.Models.AssemblyInfoInputs.cache
+F:\EvaluationTask\PracticalTask.Models\obj\Debug\net6.0\PracticalTask.Models.AssemblyInfo.cs
+F:\EvaluationTask\PracticalTask.Models\obj\Debug\net6.0\PracticalTask.Models.csproj.CoreCompileInputs.cache
+F:\EvaluationTask\PracticalTask.Models\obj\Debug\net6.0\PracticalTask.Models.dll
+F:\EvaluationTask\PracticalTask.Models\obj\Debug\net6.0\refint\PracticalTask.Models.dll
+F:\EvaluationTask\PracticalTask.Models\obj\Debug\net6.0\PracticalTask.Models.pdb
+F:\EvaluationTask\PracticalTask.Models\obj\Debug\net6.0\ref\PracticalTask.Models.dll
