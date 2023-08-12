@@ -93,3 +93,9 @@ F:\EvaluationTask\PracticalTask\obj\Debug\net6.0\refint\PracticalTask.dll
 F:\EvaluationTask\PracticalTask\obj\Debug\net6.0\PracticalTask.pdb
 F:\EvaluationTask\PracticalTask\obj\Debug\net6.0\PracticalTask.genruntimeconfig.cache
 F:\EvaluationTask\PracticalTask\obj\Debug\net6.0\ref\PracticalTask.dll
+F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\System.Web.Cors.dll
+F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\System.Web.Http.dll
+F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\System.Web.Http.Cors.dll
+F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
