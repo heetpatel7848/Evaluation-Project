@@ -16,6 +16,11 @@ namespace PracticalTask.Models.Repository
             _context = context;
         }
 
+        public IEnumerable<Item> GetItemsByItemCodes(List<int> itemCodes)
+        {
+            return _context.Items.Where(item => itemCodes.Contains(item.ItemCode)).ToList();
+        }
+
         public IEnumerable<Item> GetItems()
         {
             return _context.Items.ToList();

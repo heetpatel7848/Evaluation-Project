@@ -13,5 +13,6 @@ namespace PracticalTask.Models.Interface
         int CreateItem(Item item);
         void UpdateItem(Item item);
         void DeleteItem(int srno);
+        IEnumerable<Item> GetItemsByItemCodes(List<int> itemCodes);
     }
 }

@@ -10,6 +10,7 @@ namespace PracticalTask.Models.Interface
     {
         IEnumerable<PriceChange> GetPriceChanges();
         PriceChange GetPriceChangeById(int srno);
+        Item GetItemByItemCode(int itemCode);
         int CreatePriceChange(PriceChange priceChange);
         void UpdatePriceChange(PriceChange priceChange);
         void DeletePriceChange(int srno);

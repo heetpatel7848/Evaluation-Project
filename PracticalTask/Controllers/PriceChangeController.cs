@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using PracticalTask.Services.DTO;
 using PracticalTask.Services.Interface;
+using PracticalTask.Services.Services;
 
 namespace PracticalTask.Controllers
 {
@@ -10,10 +11,12 @@ namespace PracticalTask.Controllers
     public class PriceChangeController : ControllerBase
     {
         private readonly IPriceChangeService _priceChangeService;
+        private readonly IItemService _itemService;
 
-        public PriceChangeController(IPriceChangeService priceChangeService)
+        public PriceChangeController(IPriceChangeService priceChangeService, IItemService itemService )
         {
-            _priceChangeService = priceChangeService;
+            _priceChangeService = priceChangeService;            _itemService = itemService;
+
         }
 
         [HttpGet]

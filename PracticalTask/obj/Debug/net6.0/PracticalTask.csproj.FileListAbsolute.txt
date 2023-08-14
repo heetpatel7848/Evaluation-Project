@@ -10,6 +10,10 @@ F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft
 F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\Azure.Core.dll
 F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\Azure.Identity.dll
 F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\Humanizer.dll
+F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\System.Web.Cors.dll
+F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\System.Web.Http.dll
+F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\System.Web.Http.Cors.dll
 F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
@@ -41,6 +45,8 @@ F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\Microsoft.OpenApi.dll
 F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -93,9 +99,3 @@ F:\EvaluationTask\PracticalTask\obj\Debug\net6.0\refint\PracticalTask.dll
 F:\EvaluationTask\PracticalTask\obj\Debug\net6.0\PracticalTask.pdb
 F:\EvaluationTask\PracticalTask\obj\Debug\net6.0\PracticalTask.genruntimeconfig.cache
 F:\EvaluationTask\PracticalTask\obj\Debug\net6.0\ref\PracticalTask.dll
-F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\System.Web.Cors.dll
-F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\System.Net.Http.Formatting.dll
-F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\System.Web.Http.dll
-F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\System.Web.Http.Cors.dll
-F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\Newtonsoft.Json.dll
-F:\EvaluationTask\PracticalTask\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

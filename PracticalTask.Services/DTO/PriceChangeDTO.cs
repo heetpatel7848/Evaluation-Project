@@ -8,6 +8,7 @@ namespace PracticalTask.Services.DTO
 {
     public class PriceChangeDTO
     {
+        public List<int> SelectedItemCodes { get; set; }
         public int ItemCode { get; set; }
         public decimal OldCost { get; set; }
         public string Increase_Decrease { get; set; }

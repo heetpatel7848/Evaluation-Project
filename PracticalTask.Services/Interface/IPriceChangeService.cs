@@ -1,9 +1,5 @@
-﻿using PracticalTask.Services.DTO;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using PracticalTask.Models;
+using PracticalTask.Services.DTO;
 
 namespace PracticalTask.Services.Interface
 {
@@ -14,5 +10,8 @@ namespace PracticalTask.Services.Interface
         int CreatePriceChange(PriceChangeDTO priceChangeDto);
         void UpdatePriceChange(int srno, PriceChangeDTO priceChangeDto);
         void DeletePriceChange(int srno);
+        void ApplyPriceChangesToItems(int srno);
+        IEnumerable<Item> GetItemsByItemCodes(List<int> itemCodes);
+
     }
 }

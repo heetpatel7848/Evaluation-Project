@@ -49,5 +49,10 @@ namespace PracticalTask.Models.Repository
             }
         }
 
+        public Item GetItemByItemCode(int itemCode)
+        {
+            return _context.Items.FirstOrDefault(i => i.ItemCode == itemCode);
+        }
+
     }
 }
